@@ -1,2 +1,2 @@
 # PythonScripts
-Simple python scripts which help me to learn coding basics. Spaghetti code, you at your own risk. 
+Simple python scripts which help me to learn coding basics. Spaghetti code, use at your own risk. 
